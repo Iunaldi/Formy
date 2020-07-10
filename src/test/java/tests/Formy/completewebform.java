@@ -7,7 +7,7 @@ import utils.Driver;
 
 import static utils.ReusableMethods.clickOnTheDesiredLink1;
 
-public class complatewepform {
+public class completewebform {
 
     @Test
     public void verifyDropdown1() throws Exception {
