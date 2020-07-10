@@ -18,6 +18,9 @@ public class complatewepform {
         clickOnTheDesiredLink1("Complete Web Form");
         Assert.assertEquals(Driver.get().getCurrentUrl().contains("form"),true);
         Driver.get().close();
+
+        // Hello Word
+
     }
 
 }
